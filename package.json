@@ -4,7 +4,7 @@
     "description": "Simple calming theme for the eyes and mood 🫠.",
     "version": "0.0.2",
     "author": "Lewis M",
-    "publisher": "lewiseman",
+    "publisher": "theWiseFramework",
     "icon": "logo.png",
     "repository": {
         "type": "git",
@@ -24,5 +24,8 @@
                 "path": "./themes/wise-street-dark-theme.json"
             }
         ]
+    },
+    "scripts": {
+        "publish:ovsx": "npx ovsx publish"
     }
 }
