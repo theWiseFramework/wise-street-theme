@@ -2,8 +2,8 @@
     "name": "wise-street",
     "displayName": "Wise Street Theme",
     "description": "Simple calming theme for the eyes and mood 🫠.",
-    "version": "0.0.2",
-    "author": "Lewis M",
+    "version": "0.0.3",
+    "author": "Lewis Mbiuki",
     "publisher": "theWiseFramework",
     "icon": "logo.png",
     "repository": {
@@ -11,7 +11,7 @@
         "url": "https://github.com/theWiseFramework/wise-street-theme"
     },
     "engines": {
-        "vscode": "^1.107.1"
+        "vscode": "^1.55.0"
     },
     "categories": [
         "Themes"
