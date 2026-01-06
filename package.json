@@ -1,0 +1,28 @@
+{
+    "name": "wise-street",
+    "displayName": "Wise Street Theme",
+    "description": "Simple calming theme for the eyes and mood 🫠.",
+    "version": "0.0.2",
+    "author": "Lewis M",
+    "publisher": "lewiseman",
+    "icon": "logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/theWiseFramework/wise-street-theme"
+    },
+    "engines": {
+        "vscode": "^1.107.1"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Wise Street Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/wise-street-dark-theme.json"
+            }
+        ]
+    }
+}
