@@ -22,6 +22,11 @@
                 "label": "Wise Street Dark Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/wise-street-dark-theme.json"
+            },
+            {
+                "label": "Wise Street Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/wise-street-light-theme.json"
             }
         ]
     },
